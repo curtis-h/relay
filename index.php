@@ -4,7 +4,7 @@
 </head>
 <body>
 <div>
-Our current score is: <span id="spanner"></id>
+Our current score is: <span id="spanner"></span>
 </div>
 <script>
 
