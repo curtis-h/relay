@@ -10,6 +10,7 @@ Our current score is: <span id="spanner"></span>
 
 var url        = 'http://hacker-olympics-london.herokuapp.com/leaderboard.json';
 var teamNumber = '14';
+var craig = true;
 
 $(document).ready(function() {
     $.get(url, function(data) {
